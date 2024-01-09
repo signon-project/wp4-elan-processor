@@ -4,6 +4,11 @@ This repository implements the first version of the SignON ELAN Processing Frame
 </p>
 
 ![alt text](https://github.com/signon-project-wp4/SignON-ELAN-Processor/blob/main/img/folder_structure_chapter_v2.png)
+
+
+## Test
+In the file "test" of this repository you can find an example of usage.
+
 ## Requirements
 This research was developed using Python 3.8.0. Below, the library requirements are listed to assure the experiments reproducibility.
 
